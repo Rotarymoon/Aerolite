@@ -10,6 +10,6 @@ Here is the download link https://s2.dosya.tc/server14/9fw66h/aerolite101.apk.ht
 İlk oyun denemem olan "Aerolite" sadece ANDORID cihazlar için deneme sürümü ile yayında.
 
 Oyundaki assetlerin bir kısmı bana ait olurken, bir kısmı hazır assetlerdir.
-Oyundaki müziklerin hiçbiri bana ait değildir.
+Oyundaki müzikler bana ait değildir.
 
 Oyun çıkış tarihi: 19.01.2021
